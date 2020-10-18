@@ -16,6 +16,7 @@
 ## 甘特圖:
 
 ## PERT/CPM圖:
+![PERT/CPM](PERTCPM.jpg "PERTCPM")
 
 
 

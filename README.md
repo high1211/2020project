@@ -14,7 +14,8 @@
 
 
 ## 甘特圖:
-
+![workmap](workmap.jpg "workmap")
+![Gantttable](Gantttable.jpg "Gantttable")
 ## PERT/CPM圖:
 ![PERT/CPM](PERTCPM.jpg "PERTCPM")
 

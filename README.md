@@ -34,10 +34,14 @@
 ![Gantttable](Gantttable.jpg "Gantttable")
 ## PERT/CPM圖:
 ![PERT/CPM](PERTCPM.jpg "PERTCPM")
+## 使用案例圖:
+![use](use.jpg "use")
+## 使用案例說明:
+![use1](use1.jpg "use1")
 
 
-
-
+## DFD系統環境圖:
+![dfd](dfd.jpg "dfd")
 
 
 

@@ -42,7 +42,8 @@
 
 ## DFD系統環境圖:
 ![dfd](dfd.jpg "dfd")
-
+## DFD圖0:
+![dfd1](dfd1.jpg "dfd1")
 
 
 

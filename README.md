@@ -28,7 +28,7 @@
 3.可以駕駛不同車種
 
 ## FDD(功能分解圖):
-![](FDD.jpg "FDD")
+![fdd](fdd.jpg "fdd")
 ## 甘特圖:
 ![workmap](workmap.jpg "workmap")
 ![Gantttable](Gantttable.jpg "Gantttable")

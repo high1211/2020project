@@ -37,8 +37,9 @@
 ## 使用案例圖:
 ![use](use.jpg "use")
 ## 使用案例說明:
+![use0](use0.jpg "use0")
 ![use1](use1.jpg "use1")
-
+![use2](use2.jpg "use2")
 
 ## DFD系統環境圖:
 ![dfd](dfd.jpg "dfd")

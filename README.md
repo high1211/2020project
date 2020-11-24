@@ -46,6 +46,11 @@
 ## DFD圖0:
 ![dfd0](dfd0.jpg "dfd0")
 
-
+## UML類別圖:
+![UML](UML_C.jpg "UML_C")
+## 循序圖與活動圖:
+![UMLUSE1](UML_use1.jpg "UMLUSE1")
+![UMLUSE2](UML_use2.jpg "UMLUSE2")
+![UMLUSE3](UML_use3.jpg "UMLUSE3")
 
 

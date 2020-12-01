@@ -53,4 +53,6 @@
 ![UMLUSE2](UML_use2.jpg "UMLUSE2")
 ![UMLUSE3](UML_use3.jpg "UMLUSE3")
 
+##分鏡圖
+![UI_Storyboard](UI_Storyboard.png "UI_Storyboard")
 

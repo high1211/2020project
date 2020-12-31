@@ -1,6 +1,8 @@
 # 2020project
 ## 專題名稱: 防範三寶 從遊戲做起
 
+## PPT:
+https://drive.google.com/file/d/1aH4C-mmEYIF8mkoTERVRhlu_SqZlYaAS/view?usp=sharing
 
 ## 成員:
 
